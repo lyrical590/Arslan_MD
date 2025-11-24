@@ -41,15 +41,15 @@ module.exports = {
     OWNER_REACT: stringToBool(process.env.OWNER_REACT || "true"), // React to owner's messages
 
     // 👑 OWNER SETTINGS
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "923237045919", // Bot owner's WhatsApp number
-    OWNER_NAME: process.env.OWNER_NAME || "✦ᴀʀꜱʟᴀɴ-ᴍᴅ✦", // Bot owner's display name
-    king: process.env.king || "ᴀʀꜱʟᴀɴ-ᴍᴅ", // Bot king/developer name
-    DEV: process.env.DEV || "923237045919", // Developer contact number
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "254769799982", // Bot owner's WhatsApp number
+    OWNER_NAME: process.env.OWNER_NAME || "✦lyrical✦", // Bot owner's display name
+    king: process.env.king || "Lyrical", // Bot king/developer name
+    DEV: process.env.DEV || "254769799982", // Developer contact number
 
     // 🎨 MEDIA & APPEARANCE
     STICKER_NAME: process.env.STICKER_NAME || "✦ᴀʀꜱʟᴀɴ-ᴍᴅ✦", // Default sticker pack name
     ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/16i1l7.jpg", // Alive command image URL
-    DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʀꜱʟᴀɴ-ᴍᴅ ᴛᴇᴄʜ 🇵🇰*", // Bot description
+    DESCRIPTION: process.env.DESCRIPTION || "> *© made and empowered by lyrical*", // Bot description
 
     // 📱 STATUS FEATURES
     AUTO_STATUS_SEEN: stringToBool(process.env.AUTO_STATUS_SEEN || "true"), // Auto-see status updates
